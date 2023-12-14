@@ -62,4 +62,3 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 
 ---
 
-This README provides a concise overview of your project, making it easy for others to understand and use your SVG Logo Generator. Feel free to adjust any part of it to better fit your project's specifics or personal preferences.
